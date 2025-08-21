@@ -1,0 +1,6 @@
+train: D:\Peixes\train
+val: D:\Peixes\val
+
+nc: 1
+
+names: ["peixe"]
